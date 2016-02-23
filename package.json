@@ -1,6 +1,6 @@
 {
   "name": "fit-style",
-  "version": "1.1.32",
+  "version": "1.1.37",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -14,6 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.2",
-    "font-awesome": "^4.5.0"
+    "font-awesome": "^4.5.0",
+    "react": "^0.14.7",
+    "classnames": "^2.2.3",
+    "react-dom": "^0.14.7"
   }
 }

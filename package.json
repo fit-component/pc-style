@@ -12,11 +12,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^4.0.0-alpha.2",
-    "font-awesome": "^4.5.0",
-    "react": "^0.14.7",
-    "classnames": "^2.2.3",
-    "react-dom": "^0.14.7"
-  }
+  "dependencies": {}
 }

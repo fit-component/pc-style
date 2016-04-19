@@ -1,6 +1,6 @@
 {
   "name": "fit-style",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "font-awesome": "^4.6.1"
   }
 }
